@@ -19,8 +19,8 @@ public class EditPage extends Variables {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_edit_page);
-        profile1Text = (TextView)findViewById(R.id.profile1);
-        profile1Text.setText(name);
+        //profile1Text = (TextView)findViewById(R.id.profile1);
+        //profile1Text.setText(name);
 
         ListView scrollviewlist = (ListView) findViewById(R.id.scrollview_list);
         String[] item = new String[]{"Take medicine at 6:00 PM", "Dinner at 6:30 PM", "Wake up at 7:00 AM", "Breakfast at 7:30 AM", "Take medicine at 7:30 AM", "Walk at 8:00 AM"};

@@ -7,8 +7,8 @@
     tools:context="snapcare.snapcarecaretaker.EditPage">
 
     <LinearLayout
-        android:layout_width="344dp"
-        android:layout_height="495dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:orientation="vertical"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="8dp">
@@ -19,7 +19,7 @@
             android:layout_marginTop="20dp" />
 
         <TextView
-            android:id="@+id/profile1"
+            android:id="@string/profile1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif"

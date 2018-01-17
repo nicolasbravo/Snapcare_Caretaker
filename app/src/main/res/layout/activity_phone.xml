@@ -27,7 +27,8 @@
                 android:layout_height="56dp"
                 android:onClick="onClick911"
                 android:text="Call 911"
-                android:textSize="18sp"
+                android:textSize="30sp"
+                android:textStyle="bold"
                 tools:layout_editor_absoluteX="102dp"
                 tools:layout_editor_absoluteY="352dp" />
         </TableRow>
@@ -44,7 +45,8 @@
                 android:layout_height="56dp"
                 android:onClick="onClickElderly"
                 android:text="Call Elderly"
-                android:textSize="18sp"
+                android:textSize="23sp"
+                android:textStyle="bold"
                 tools:layout_editor_absoluteX="102dp"
                 tools:layout_editor_absoluteY="352dp" />
         </TableRow>

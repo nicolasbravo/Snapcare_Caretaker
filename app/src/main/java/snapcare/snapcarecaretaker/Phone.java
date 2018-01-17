@@ -19,7 +19,7 @@ public class Phone extends Variables {
         dialContactPhone("911");
     }
     public void onClickElderly(View view) {
-        dialContactPhone("7038659144");
+        dialContactPhone("7033888275");
     }
 
     private void dialContactPhone(final String phoneNumber) {

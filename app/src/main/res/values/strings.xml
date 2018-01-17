@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Snapcare Caretaker</string>
-    <string name="profile1">Grandmother</string>
+    <string name="profile1">Name 1</string>
+    <string name="layout_width">344dp</string>
+    <string name="layout_height">495dp</string>
 </resources>
